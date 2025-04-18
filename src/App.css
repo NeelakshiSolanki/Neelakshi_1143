@@ -1,0 +1,22 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+
+button{
+  all: unset;
+  padding:  6px 16 px;
+  background:black;
+  color: aqua;
+  height: 32 px;
+  font-weight: 500;
+}
+
+
