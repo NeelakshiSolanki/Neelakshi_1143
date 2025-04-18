@@ -1,5 +1,7 @@
 import React from "react";
 
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
+import { motion } from "framer-motion";
 
 const postData = [
   { title: "🌅 Beach Vibes", likes: 150, comments: 45, shares: 12 },
