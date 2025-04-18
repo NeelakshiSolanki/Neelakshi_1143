@@ -1,5 +1,6 @@
 import React from "react";
-
+import { PieChart, Pie, Cell, Tooltip, BarChart, Bar, XAxis, YAxis, ResponsiveContainer } from "recharts";
+import { motion } from "framer-motion";
 
 const ageData = [
   { name: "13-17", value: 5 },
